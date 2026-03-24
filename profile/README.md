@@ -16,13 +16,15 @@ Clone the [sample app](https://github.com/clj-android/sample) and follow the bui
 
 This is not very mature at this point. A lot of the code was written by a robot; it's [plausible, but not necessarily correct](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code), and it works on my machine (tm).
 
+I've used this to build [Ceilingbounce](https://github.com/zakwilson/ceilingbounce), a datalogging app for flashlight reviewers. It's hand written so I've had some opportunity to get a feel for pain points and fix them.
+
 Please try this for your hobby project. Your investors would like me to say please don't bet your company on it.
 
 ## Docs
 
 See the [docs](https://github.com/clj-android/docs) repo for mostly machine-generated documentation.
 
-## Anticipated Frequent Questions
+## Anticipated Frequent Questions (it's too early to have FAQ)
 
 ### What's with the Java activity shims?
 
@@ -42,7 +44,7 @@ Yes. Your phone is probably a lot faster now. Apps compiled with the current too
 
 ### I hate AI and this is dumb
 
-#### slop, stealing work from humans, boiling oceans, etc...
+#### slop, videcoding, boiling oceans, etc...
 
 I share your concerns, but I also know that it's perilous to ignore major technological shifts. I wanted to see what LLM coding tools can do, and this seemed like a good project for it since there was an existing implementation to work from and a well-defined success condition.
 
