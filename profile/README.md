@@ -1,8 +1,14 @@
 # Clojure on Android
 
-This is a modernization of the [clojure-android](https://github.com/clojure-android/) project. It lets you build Android apps in Clojure as the name suggests, provides ergonomic wrappers for some of the Android Java APIs, and it gives you an nREPL connection to your running app over ADB.
+This is a modernization of the [clojure-android](https://github.com/clojure-android/) project. 
 
-It builds with Gradle and should work for F-Droid. It can build release without dynamic class loading (optionally), which makes Google Play approval easier. 
+* Run native Clojure on Android
+* Develop over nREPL
+* Build for F-Droid or Google Play
+* Write UIs in a declarative DSL with reactive cells
+* Use device sensors as reactive cells
+* Use intent callbacks without wanting to smash your device with a hammer
+* Fast startup - release builds launch in under 2 seconds on a five year old midrange phone
 
 ## Keep Android Open
 
