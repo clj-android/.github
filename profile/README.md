@@ -42,6 +42,8 @@ It requires Kotlin-specific features that aren't straightforward to call via Jav
 
 Yes. Your phone is probably a lot faster now. Apps compiled with the current toolchain also launch much faster on the same hardware.
 
+Release builds launch in under 2 seconds on anything remotely modern.
+
 ### I hate AI and this is dumb
 
 #### slop, videcoding, boiling oceans, etc...
