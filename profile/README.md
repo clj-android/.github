@@ -67,3 +67,13 @@ Now I get to hand-code Clojure for my phone with all the joy inherent in that ex
 I **like** hand-coding in nice environments, and I'm not convinced human developers are as obsolete as the AI maximalists would like the world to believe. See the link about plausible code above.
 
 I also think this is a good environment for LLM tools for two reasons. One is that they can use the Clojure REPL via MCP or command-line tools. LLMs make a lot of mistakes, so they're faster and more accurate given a tight feedback loop. The other is that a language which enables more succinct code uses fewer tokens. That makes it cheaper, but more importantly, LLMs consistently produce more correct results when the context is smaller.
+
+## Credits
+
+* [Quetzaly Solano](https://github.com/sattvik)
+* [Oleksandr Yakushev](https://github.com/alexander-yakushev)
+* [R.W van 't Veer](https://codeberg.org/rwv)
+* [Rich Hickey](https://github.com/richhickey)
+* [Zak Wilson](https://github.com/zakwilson)
+
+Many others to be found in the contributor lists for each sub-project
